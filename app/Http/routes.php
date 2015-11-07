@@ -34,3 +34,4 @@ Route::get('office/api', function () {
 //API
 
 Route::get('api/users', 'ApiController@getAllUsers');
+Route::get('api/users', 'ApiController@getAllUserstest');
