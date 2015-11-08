@@ -6,7 +6,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class User extends Model
 {
-    protected $attributes = [
+/*    protected $attributes = [
         'id',
         'username',
         'firstname',
@@ -14,7 +14,7 @@ class User extends Model
         'email',
         'password'
 
-    ];
+    ];*/
 
     protected $table = 'users';
 }

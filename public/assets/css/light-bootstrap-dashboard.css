@@ -3391,3 +3391,9 @@ body > .navbar-collapse[data-color="purple"]:after {
     -webkit-overflow-scrolling: touch;
   }
 }
+
+/* CUSTOM */
+
+.mb10 {
+    margin-bottom: 10px;
+}
